@@ -16,6 +16,9 @@ npm install
 // Run all Mix tasks...
 npm run dev
 
+// error to npm watch
+npm update vue-loader
+
 // Run all Mix tasks and minify output...
 npm run prod
 
