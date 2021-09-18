@@ -1,0 +1,69 @@
+//////For Laarvel 8 and vue 2//////
+
+
+/// ui
+composer require laravel/ui
+
+// vue without auth
+php artisan ui vue
+
+// vue auth
+php artisan ui vue --auth
+
+//npm
+npm install
+
+// Run all Mix tasks...
+npm run dev
+
+// Run all Mix tasks and minify output...
+npm run prod
+
+
+// seeder
+php artisan make:seeder UserSeeder
+
+// fresh db with seed
+php artisan migrate:fresh --seed
+
+
+// v-form
+npm install axios vform
+
+
+// vue router
+npm install vue-router
+
+// compile
+npm run watch
+
+
+//tost
+npm install -S vue-sweetalert2
+
+//vue-progressbar
+npm install vue-progressbar
+
+// pagination
+npm install laravel-vue-pagination
+
+//fontawesome-free
+npm install --save @fortawesome/fontawesome-free
+
+// Need for image upload
+npm install object-to-formdata
+
+//intervention/image
+composer require intervention/image
+
+//jquery 
+npm install jquery --save
+
+//vue2-animate
+npm install --save vue2-animate
+
+// vuex 
+npm install vuex --save
+
+//laravel/sanctum
+composer require laravel/sanctum
