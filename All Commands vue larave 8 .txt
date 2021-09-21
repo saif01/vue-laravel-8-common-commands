@@ -1,5 +1,7 @@
 //////For Laarvel 8 and vue 2//////
 
+// New Laravel Project create
+composer create-project laravel/laravel example-app
 
 /// ui
 composer require laravel/ui
